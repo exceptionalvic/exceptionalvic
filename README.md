@@ -1,5 +1,5 @@
-### Hi there 👋
-## My Tech Profile 😄
+## My Tech Profile 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20Buddy&fontSize=90)
 
 <!--
 **exceptionalvic/exceptionalvic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
