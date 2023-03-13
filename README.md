@@ -72,7 +72,7 @@ Data:
 </p>
 
 [![Exceptionalvic's GitHub stats](https://github-readme-stats.vercel.app/api?username=exceptionalvic&count_private=true&show_icons=true&theme=radical&hide=stars,contribs)](https://github.com/exceptionalvic/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exceptionalvic)](https://github.com/exceptionalvic/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exceptionalvic&layout=compact&hide_progress=true)](https://github.com/exceptionalvic/github-readme-stats)
           
 <!--
 **exceptionalvic/exceptionalvic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
