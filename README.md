@@ -50,7 +50,8 @@ Data:
     
 *
 ```
-          
+### Let's Connect
+<a href="https://www.linkedin.com/in/victor-igbokwe-39bb5973/"><img src="https://user-images.githubusercontent.com/17482989/224701420-e1ad97db-c7c3-4858-9c4f-b23f9ce7b6a6.png" width="45" height="45"></a>
 ### Tools 🚀
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
@@ -70,6 +71,8 @@ Data:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+
 </p>
 
 [![Exceptionalvic's GitHub stats](https://github-readme-stats.vercel.app/api?username=exceptionalvic&count_private=true&show_icons=true&theme=radical&hide=stars,contribs)](https://github.com/exceptionalvic/github-readme-stats)
