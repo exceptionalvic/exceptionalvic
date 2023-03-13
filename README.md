@@ -69,6 +69,7 @@ Data:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 </p>
 
 [![Exceptionalvic's GitHub stats](https://github-readme-stats.vercel.app/api?username=exceptionalvic&count_private=true&show_icons=true&theme=radical&hide=stars,contribs)](https://github.com/exceptionalvic/github-readme-stats)
