@@ -1,8 +1,6 @@
 ## My Tech Profile 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20Everyone&fontSize=90)
-<img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif">
 ### Tools I Have Used 👋
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
           
 
 <!--
