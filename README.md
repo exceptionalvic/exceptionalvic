@@ -16,7 +16,7 @@ Data:
           "Architechure": "Microservice, pivoting to SaaS"
          ],
          BFundz: [
-          "Role": "Fullstack Engineer",
+          "Role": "Backend Engineer",
           "Industry": "Fintech",
           "Type": "Crypto"
           "Architechure": "Bootstrapped Monolith",
@@ -28,7 +28,7 @@ Data:
           "Architechure": "Semi Microservice",
          ],
          NHFrank: [
-          "Role": "Backend Engineer",
+          "Role": "Fullstack Engineer",
           "Industry": "Fintech",
           "Type" "Crypto"
           "Architechure": "Monolith",
