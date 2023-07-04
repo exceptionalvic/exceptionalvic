@@ -13,19 +13,19 @@ Data:
           "Role": "Backend Engineer",
           "Industry": "Automotive",
           "Type": "API, History Data",
-          "Architechure": "Microservice, pivoting to SaaS"
+          "Architechure": "Microservice, SaaS"
          ],
          BFundz: [
           "Role": "Backend Engineer",
           "Industry": "Fintech",
           "Type": "Crypto"
-          "Architechure": "Bootstrapped Monolith",
+          "Architechure": "Microservice",
          ],
          Remited: [
           "Role": "Backend Engineer",
           "Industry": "Fashion",
           "Type" "Ecommerce"
-          "Architechure": "Semi Microservice",
+          "Architechure": "Microservice",
          ],
          NHFrank: [
           "Role": "Fullstack Engineer",
