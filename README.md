@@ -9,11 +9,17 @@ Data:
     role: Backend Engineer
     Tech Background:
     [
+        GoNomad: [
+          "Role": "Senior Backend Engineer",
+          "Industry": "Fintech/Compiance",
+          "Type": "API, Invoice, Payment Link, Compliance",
+          "Architechure": "Microservice"
+         ],
         Reown: [
           "Role": "Backend Engineer",
           "Industry": "Automotive",
           "Type": "API, History Data",
-          "Architechure": "Microservice, SaaS"
+          "Architechure": "Monolith, SaaS"
          ],
          BFundz: [
           "Role": "Backend Engineer",
@@ -25,12 +31,12 @@ Data:
           "Role": "Backend Engineer",
           "Industry": "Fashion",
           "Type" "Ecommerce"
-          "Architechure": "Microservice",
+          "Architechure": "Monolith",
          ],
          NHFrank: [
           "Role": "Fullstack Engineer",
           "Industry": "Fintech",
-          "Type" "Crypto"
+          "Type" "Forex"
           "Architechure": "Monolith",
          ]
     ],
@@ -38,11 +44,12 @@ Data:
           [
                     "DevOps/Automation",
                     "AI/Machine Learning",
-                    "Wed Development"
+                    "Wed Development",
+                    "Platform engineering / development"
           ]
   Hobbies:
           [
-                    "Leaning new tech stacks",
+                    "Learning new tech stacks",
                     "Reading",
                     "Listening to Documentaries and Tech Talks",
                     "Mentoring"
@@ -72,6 +79,7 @@ Data:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="45" height="45"/>
 
 </p>
 
