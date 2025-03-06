@@ -83,20 +83,18 @@ Data:
 
 </p>
 
-[![Exceptionalvic's GitHub stats](https://github-readme-stats.vercel.app/api?username=exceptionalvic&count_private=true&show_icons=true&theme=radical&hide=stars,contribs)](https://github.com/exceptionalvic/github-readme-stats)
+<!-- [![Exceptionalvic's GitHub stats](https://github-readme-stats.vercel.app/api?username=exceptionalvic&count_private=true&show_icons=true&theme=radical&hide=stars,contribs)](https://github.com/exceptionalvic/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exceptionalvic&layout=compact&hide_progress=true)](https://github.com/exceptionalvic/github-readme-stats)
-          
-<!--
+-->    
+
 **exceptionalvic/exceptionalvic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on mobile contactless payment technology and car rental marketplace
+- 🌱 I’m currently learning Modern Distributed Systems and AI/ML
+- 👯 I’m looking to collaborate on innovative ideas in Fintech, Automotive and ECommerce that will make the world a better place
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Backend Engineering, System Architectures, Scalability
+- 📫 How to reach me: shoot me an email @ igbokwev [at] gmail [.com]
+- 😄 Hobbies: Reading, Coding, Mentoring
+- ⚡ Fun fact: Hacking away tech ideas, one at a time.
+
