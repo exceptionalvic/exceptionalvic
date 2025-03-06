@@ -17,8 +17,8 @@ Data:
          ],
         HumDov: [
           "Role": "Backend Engineer",
-          "Industry": "Social",
-          "Type": "CRM, Mobile App, Donation",
+          "Industry": "Social/Community Management",
+          "Type": "CRM, Mobile Chats, Donation",
           "Architechure": "Microservice"
          ],
         Reown: [
