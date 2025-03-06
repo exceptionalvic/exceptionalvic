@@ -11,8 +11,8 @@ Data:
     [
         GoNomad: [
           "Role": "Lead Backend Engineer",
-          "Industry": "Fintech/Compiance",
-          "Type": "API, Invoice, Payment Link, Compliance",
+          "Industry": "Fintech/Compliance",
+          "Type": "Payout technology, Invoice, Payment Link, Compliance",
           "Architechure": "Microservice"
          ],
         HumDov: [
