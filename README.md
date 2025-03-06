@@ -10,9 +10,15 @@ Data:
     Tech Background:
     [
         GoNomad: [
-          "Role": "Senior Backend Engineer",
+          "Role": "Lead Backend Engineer",
           "Industry": "Fintech/Compiance",
           "Type": "API, Invoice, Payment Link, Compliance",
+          "Architechure": "Microservice"
+         ],
+        HumDov: [
+          "Role": "Backend Engineer",
+          "Industry": "Social",
+          "Type": "CRM, Mobile App, Donation",
           "Architechure": "Microservice"
          ],
         Reown: [
