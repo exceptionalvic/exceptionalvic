@@ -17,21 +17,21 @@ Data:
          ],
         HumDov: [
           "Role": "Backend Engineer",
-          "Industry": "Social/Community Management",
+          "Industry": "social Media/ SaaS",
           "Type": "CRM, Mobile Chats, Donation",
           "Architechure": "Microservice"
          ],
         Reown: [
           "Role": "Backend Engineer",
-          "Industry": "Automotive",
+          "Industry": "Automotive/SaaS",
           "Type": "API, History Data",
-          "Architechure": "Monolith, SaaS"
+          "Architechure": "Monolith"
          ],
          BFundz: [
           "Role": "Backend Engineer",
           "Industry": "Fintech",
           "Type": "Crypto"
-          "Architechure": "Microservice",
+          "Architechure": "Monolith",
          ],
          Remited: [
           "Role": "Backend Engineer",
@@ -63,6 +63,17 @@ Data:
     
 *
 ```
+### Tech Stack
+Languages/Scripts: Python, Linux Bash, JavaScript, HTML/CSS
+Web Frameworks/Tools: Django, DRF, FastAPI
+Databases/SQL/Tools: PostgreSQL, MySQL, Redis, SQLite3, Cassandra DB, SQLAlchemy, Elasticsearch
+CI/CD: GitHub Actions, Terraform, Docker, Travis, Kubernetes
+Testing/Monitoring: Locust, Sentry, Pytest, Flake8, Promotheus, Grafana
+WebSocket Tools: Django Channels, Redis Pub/Sub
+Task Queues: Celery, RabbitMQ, Redis, Django APSscheduler
+Cloud: AWS, AWS Lambda, APIGW, Digital Ocean, GCP
+Documentation: Confluence, Swagger UI, Redoc, Postman
+
 ### Let's Connect
 <a href="https://www.linkedin.com/in/victor-igbokwe-39bb5973/"><img src="https://user-images.githubusercontent.com/17482989/224701420-e1ad97db-c7c3-4858-9c4f-b23f9ce7b6a6.png" width="45" height="45"></a>
 ### Tools 🚀
