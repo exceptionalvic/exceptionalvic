@@ -9,6 +9,12 @@ Data:
     role: Backend Engineer
     Tech Background:
     [
+        Searchatlas: [
+          "Role": "Lead Backend Engineer",
+          "Industry": "SaaS/SEO",
+          "Type": "SEO Software",
+          "Architechure": "Microservice"
+         ],
         GoNomad: [
           "Role": "Lead Backend Engineer",
           "Industry": "Fintech/Compliance",
